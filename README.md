@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @developersailor
-- 👀 I’m interested in Swift and Flutter
+- 👀 I’m interested in Swift
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me mehmetfiskindal@gmail.com
 <!---
