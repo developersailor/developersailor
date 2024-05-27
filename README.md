@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @developersailor
-- 👀 I’m interested in Swift
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in Mobile App development.
 - 📫 How to reach me mehmetfiskindal@gmail.com
 <!---
 developersailor/developersailor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
