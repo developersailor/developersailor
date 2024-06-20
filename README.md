@@ -6,6 +6,6 @@ developersailor/developersailor is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-![Yıldız Sayısı](https://img.shields.io/github/stars/[developersailor]/[fi-booking]?style=social)
-![Fork Sayısı](https://img.shields.io/github/forks/[developersailor]/[fi-booking]?style=social)
-![Commit Sayısı](https://img.shields.io/github/commit-activity/m/[developersailor]/[fi-booking])
+![Yıldız Sayısı](https://img.shields.io/github/stars/developersailor/fi-booking?style=social)
+![Fork Sayısı](https://img.shields.io/github/forks/developersailor/fi-booking?style=social)
+![Commit Sayısı](https://img.shields.io/github/commit-activity/m/developersailor/fi-booking)
