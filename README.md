@@ -33,8 +33,8 @@ The initial backend implementation for FiBooking.
 ## 📫 How to reach me
 
 - Email: [mehmetfiskindal@gmail.com](mailto:mehmetfiskindal@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mehmet-f%C4%B1%C5%9Fk%C4%B1ndal-41309b56)
+- Twitter: [@yourtwitterhandle](https://twitter.com/developersailor)
 
 <!---
 developersailor/developersailor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
