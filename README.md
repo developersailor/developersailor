@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @developersailor
-- 👀 I’m interested in Mobile App development.
+- 👀 I’m interested in Mobile App development , web and backend.
+- I'm interested in Swift and Dart, and I also use Typescript in my projects.
+- `Framework and language are just tools.`
 - 📫 How to reach me mehmetfiskindal@gmail.com
 <!---
 developersailor/developersailor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
