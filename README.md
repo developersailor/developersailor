@@ -6,7 +6,7 @@ I'm a passionate developer with a keen interest in Mobile App development, web, 
 
 - **Languages**: Swift, Dart, TypeScript, Python
 - **Frameworks**: [Flutter,SwifUI,React,React-Native]
-![developersailor's GitHub stats](https://github-readme-stats.vercel.app/api?username=developersailor&show_icons=true&theme=radical)
+- ![developersailor's GitHub stats](https://github-readme-stats.vercel.app/api?username=developersailor&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
 
