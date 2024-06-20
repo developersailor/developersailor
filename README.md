@@ -1,26 +1,42 @@
-- 👋 Hi, I’m @developersailor
-- 👀 I’m interested in Mobile App development , web and backend.
-- I'm interested in Swift and Dart, and I also use Typescript in my projects.
-- `Framework and language are just tools.`
-- 📫 How to reach me mehmetfiskindal@gmail.com
+# Hi there, I'm @developersailor 👋
+
+I'm a passionate developer with a keen interest in Mobile App development, web, and backend technologies. I enjoy working with Swift and Dart, and I often use TypeScript in my projects. For me, `Framework and language are just tools.`
+
+## 🔧 Technologies & Tools
+
+- **Languages**: Swift, Dart, TypeScript, Python
+- **Frameworks**: [Flutter,SwifUI,React,React-Native]
+
+## 🌟 Featured Projects
+
+### [FiBooking](https://github.com/developersailor/fi-booking)
+![Stars](https://img.shields.io/github/stars/developersailor/fi-booking?style=social)
+![Forks](https://img.shields.io/github/forks/developersailor/fi-booking?style=social)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/developersailor/fi-booking)
+
+A mobile application for booking services.
+
+### [FiBooking Backend with Nest (Development Stage)](https://github.com/developersailor/fibooking-nest-be)
+![Stars](https://img.shields.io/github/stars/developersailor/fibooking-nest-be?style=social)
+![Forks](https://img.shields.io/github/forks/developersailor/fibooking-nest-be?style=social)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/developersailor/fibooking-nest-be)
+
+The backend for FiBooking, built with Nest.js. Currently in development.
+
+### [FiBooking Backend First Version](https://github.com/developersailor/fi-booking-backend)
+![Stars](https://img.shields.io/github/stars/developersailor/fi-booking-backend?style=social)
+![Forks](https://img.shields.io/github/forks/developersailor/fi-booking-backend?style=social)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/developersailor/fi-booking-backend)
+
+The initial backend implementation for FiBooking.
+
+## 📫 How to reach me
+
+- Email: [mehmetfiskindal@gmail.com](mailto:mehmetfiskindal@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+
 <!---
 developersailor/developersailor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-#Fibooking
-[FiBooking](https://github.com/developersailor/fi-booking)
-![Yıldız Sayısı](https://img.shields.io/github/stars/developersailor/fi-booking?style=social)
-![Fork Sayısı](https://img.shields.io/github/forks/developersailor/fi-booking?style=social)
-![Commit Sayısı](https://img.shields.io/github/commit-activity/m/developersailor/fi-booking)
-
-#FiBooking Backend with nest(not in active use now[development stage])
-[FiBooking nest backend](https://github.com/developersailor/fibooking-nest-be)
-![Yıldız Sayısı](https://img.shields.io/github/stars/developersailor/fibooking-nest-be?style=social)
-![Fork Sayısı](https://img.shields.io/github/forks/developersailor/fibooking-nest-be?style=social)
-![Commit Sayısı](https://img.shields.io/github/commit-activity/m/developersailor/fibooking-nest-be)
-
-#FiBooking Backend first version
-[FiBooking](https://github.com/developersailor/fi-booking-backend)
-![Yıldız Sayısı](https://img.shields.io/github/stars/developersailor/fi-booking-backend?style=social)
-![Fork Sayısı](https://img.shields.io/github/forks/developersailor/fi-booking-backend?style=social)
-![Commit Sayısı](https://img.shields.io/github/commit-activity/m/developersailor/fi-booking-backend)
