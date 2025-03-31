@@ -26,37 +26,35 @@ I'm a passionate developer with a keen interest in Mobile App development, web, 
 
 ## 🌟 Featured Projects
 
-### [FiBooking](https://github.com/developersailor/fi-booking)
+### [FiKeyword](https://github.com/developersailor/FiKeyword)
 
-![Stars](https://img.shields.io/github/stars/developersailor/fi-booking?style=social)
-![Forks](https://img.shields.io/github/forks/developersailor/fi-booking?style=social)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/developersailor/fi-booking)
+![Stars](https://img.shields.io/github/stars/developersailor/FiKeyword?style=social)
+![Forks](https://img.shields.io/github/forks/developersailor/FiKeyword?style=social)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/developersailor/FiKeyword)
+
+FiKeyword is a word puzzle game that helps users improve their vocabulary in a fun and engaging way.
+
+### [Yardım Talebi Takip Sistemi (Turdes)](https://github.com/developersailor/Turdes)
+
+A comprehensive aid request tracking system, with both a backend (NestJS) and a mobile app (Flutter).
+
+### [FiBooking](https://github.com/developersailor/fi-booking)
 
 A mobile application for booking services.
 
-### [FiBooking Backend with Nest (Development Stage)](https://github.com/developersailor/fibooking-nest-be)
+### [FiBooking Backend (NestJS)](https://github.com/developersailor/fibooking-nest-be)
 
-![Stars](https://img.shields.io/github/stars/developersailor/fibooking-nest-be?style=social)
-![Forks](https://img.shields.io/github/forks/developersailor/fibooking-nest-be?style=social)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/developersailor/fibooking-nest-be)
+Backend service for FiBooking, built using NestJS.
 
-The backend for FiBooking, built with Nest.js. Currently in development.
+---
 
-### [FiBooking Backend First Version](https://github.com/developersailor/fi-booking-backend)
-
-![Stars](https://img.shields.io/github/stars/developersailor/fi-booking-backend?style=social)
-![Forks](https://img.shields.io/github/forks/developersailor/fi-booking-backend?style=social)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/developersailor/fi-booking-backend)
-
-The initial backend implementation for FiBooking.
-
-## 📫 How to reach me
+## 💌 How to Reach Me
 
 - Email: [mehmetfiskindal@gmail.com](mailto:mehmetfiskindal@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mehmet-f%C4%B1%C5%9Fk%C4%B1ndal-41309b56)
+- LinkedIn: [Mehmet Fışkındal](https://www.linkedin.com/in/mehmet-f%C4%B1%C5%9Fk%C4%B1ndal-41309b56)
 - Twitter: [@developersailor](https://twitter.com/developersailor)
 
 <!---
 developersailor/developersailor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
+
