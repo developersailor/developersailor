@@ -15,38 +15,6 @@ I'm a passionate developer with a keen interest in Mobile App development, web, 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=developersailor&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=developersailor&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=developersailor&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=developersailor&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 🌟 Featured Projects
-
-### [FiKeyword](https://github.com/developersailor/FiKeyword)
-
-![Stars](https://img.shields.io/github/stars/developersailor/FiKeyword?style=social)
-![Forks](https://img.shields.io/github/forks/developersailor/FiKeyword?style=social)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/developersailor/FiKeyword)
-
-FiKeyword is a word puzzle game that helps users improve their vocabulary in a fun and engaging way.
-
-### [Yardım Talebi Takip Sistemi (Turdes)](https://github.com/developersailor/Turdes)
-
-A comprehensive aid request tracking system, with both a backend (NestJS) and a mobile app (Flutter).
-
-### [FiBooking](https://github.com/developersailor/fi-booking)
-
-A mobile application for booking services.
-
-### [FiBooking Backend (NestJS)](https://github.com/developersailor/fibooking-nest-be)
-
-Backend service for FiBooking, built using NestJS.
-
 ---
 
 ## 💌 How to Reach Me
