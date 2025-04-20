@@ -3,7 +3,7 @@
 I'm a passionate developer with a keen interest in Mobile App development, web, and backend technologies. I enjoy working with Swift and Dart, and I often use TypeScript in my projects. For me, `Framework and language are just tools.`
 
 # [my resume](mehmet_fiskindal_cv.pdf)
-# [Türkçe Özgeçmişim](mehmet_fiskindal_cv_tr.pdf)
+# [Özgeçmişim](mehmet_fiskindal_cv_tr.pdf)
 
 # 💻 Tech Stack:
 
